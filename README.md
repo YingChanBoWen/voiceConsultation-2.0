@@ -1,0 +1,2 @@
+# voiceConsultation-2.0
+一个简易Android端的基于图灵机器人和讯飞语音的智能健康咨询APP
